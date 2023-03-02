@@ -1,0 +1,17 @@
+double
+int
+string
+char
+float
+if
+else
+return
+Console
+WriteLine
+ToString
+while
+for
+class
+static
+using
+namespace

@@ -1,0 +1,10 @@
+double
+int
+string
+char
+if
+else
+return
+Console
+WriteLine
+ToString
